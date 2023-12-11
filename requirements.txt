@@ -1,0 +1,13 @@
+jax
+optax
+equinox
+flax
+
+tqdm
+
+wandb
+
+tensorflow-cpu
+tensorflow-datasets
+
+immutables
